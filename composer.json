@@ -1,0 +1,12 @@
+{
+  "name": "aliceiw/simple-console",
+  "description": "",
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "AliceIw\\SimpleConsole\\": "src/"
+    }
+  }
+}
